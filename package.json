@@ -12,7 +12,7 @@
   },
   "cacheDirectories": ["node_modules", "react-ui/node_modules"],
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.17.3"
   },
   "repository": {
     "type": "git",
